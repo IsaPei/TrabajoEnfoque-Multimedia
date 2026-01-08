@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MultimediaEnfoque</string>
+
+    <string name="txtViewConversor">Conversor</string>
+    <string name="imgConversor">Imagen del conversor</string>
+
+    <string name="eTxtIntroValor">Escribe</string>
+    <string name="txtViewIgual">=</string>
+    <string name="txtViewResultado"> </string>
+
+    <string name="rBtnLongitud">Metros --- Kilómetros</string>
+    <string name="rBtnPeso">Gramos --- Kilogramos</string>
+    <string name="rBtnTemperatura">Celsius --- Fahrenheit</string>
+
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnBorrar">Borrar</string>
+
+    <string name="checkGuardar">Guardar los resultados</string>
+
+    <string name="btnGuardar">Guardar resultados</string>
+    <string name="btnHistorial">Mostrar historial</string>
+
+    <string name="errSelect">Seleccione una unidad</string>
+    <string name="errValor">Introduce un número</string>
+    <string name="listado">Listado</string>
+
+
+</resources>
